@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Clion_Projects/Kurs_Olteanu_Teodora_712/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+shape.h
+E:/Clion_Projects/Kurs_Olteanu_Teodora_712/shape.h
+
+E:/Clion_Projects/Kurs_Olteanu_Teodora_712/shape.cpp
+shape.h
+E:/Clion_Projects/Kurs_Olteanu_Teodora_712/shape.h
+string
+-
+
+E:/Clion_Projects/Kurs_Olteanu_Teodora_712/shape.h
+string
+-
+
