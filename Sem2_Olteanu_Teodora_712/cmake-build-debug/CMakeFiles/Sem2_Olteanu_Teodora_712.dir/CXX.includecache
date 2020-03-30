@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Clion_Projects/Sem2_Olteanu_Teodora_712/Konto.h
+
+E:/Clion_Projects/Sem2_Olteanu_Teodora_712/main.cpp
+iostream
+-
+cstring
+-
+Konto.h
+E:/Clion_Projects/Sem2_Olteanu_Teodora_712/Konto.h
+
